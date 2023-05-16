@@ -1,0 +1,39 @@
+{
+    "produto": [
+        {
+            "id": 1,
+            "name": "Amoxicilina",
+            "price": "29,99",
+            "amount": 200,
+            "supplier": "Drogasil"
+        },
+        {
+            "id": 2,
+            "name": "Dipirona",
+            "price": "29,99",
+            "amount": 200,
+            "supplier": "Ultrafarma"
+        },
+        {
+            "id": 3,
+            "name": "Dorflex",
+            "price": "29,99",
+            "amount": 200,
+            "supplier": "Pharmers"
+        },
+        {
+            "id": 4,
+            "name": "Paracetamol",
+            "price": "29,99",
+            "amount": 200,
+            "supplier": "Farmadia"
+        },
+        {
+            "id": 5,
+            "name": "Novalgina",
+            "price": "29,99",
+            "amount": 200,
+            "supplier": "Droga_Nossa"
+        }
+    ]
+}
