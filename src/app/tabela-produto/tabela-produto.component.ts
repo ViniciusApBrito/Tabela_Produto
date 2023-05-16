@@ -19,6 +19,9 @@ export class TabelaProdutoComponent implements OnInit {
     
   }
   loadProduto() {
+    this.ProdutoService.getProduto().subscribe({
+      next : data => this.produtos = data
+    })
     
   }
 

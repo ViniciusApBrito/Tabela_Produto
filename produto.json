@@ -10,30 +10,30 @@
         {
             "id": 2,
             "name": "Dipirona",
-            "price": "29,99",
-            "amount": 200,
-            "supplier": "Ultrafarma"
+            "price": "16,98",
+            "amount": 2,
+            "supplier": "Pague menos"
         },
         {
             "id": 3,
             "name": "Dorflex",
-            "price": "29,99",
-            "amount": 200,
+            "price": "24,75",
+            "amount": 425,
             "supplier": "Pharmers"
         },
         {
             "id": 4,
             "name": "Paracetamol",
-            "price": "29,99",
-            "amount": 200,
-            "supplier": "Farmadia"
+            "price": "20,59",
+            "amount": 80,
+            "supplier": "Nissei"
         },
         {
             "id": 5,
             "name": "Novalgina",
-            "price": "29,99",
-            "amount": 200,
-            "supplier": "Droga_Nossa"
+            "price": "18,95",
+            "amount": 40,
+            "supplier": "Droga Nossa"
         }
     ]
 }
