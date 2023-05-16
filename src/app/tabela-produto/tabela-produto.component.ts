@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ProdutoService } from '../produto.service';
 
 @Component({
   selector: 'app-tabela-produto',
@@ -6,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./tabela-produto.component.css']
 })
 export class TabelaProdutoComponent {
+  constructor(private ProdutoService: ProdutoService){}
 
 }
